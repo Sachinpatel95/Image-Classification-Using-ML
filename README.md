@@ -1,7 +1,7 @@
 # MiniProject
 Image Classifiation using ML
 
-Image Classification of Leopard & Tiger through:
+Image Classification of Leopard & Tiger using:
 1. SVM
 2. Logistic Regression
 3. KNN
